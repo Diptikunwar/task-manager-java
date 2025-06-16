@@ -1,24 +1,30 @@
-# 🧾 Student Record Management System – Java Console App
+# 📌 Simple Java Task Manager
 
-A file-based Student Record Management System built with Java. It allows users to manage student data through a console interface with features like adding, updating, deleting, searching, filtering, sorting, and exporting data.
+A simple Task Manager console application built in pure Java, demonstrating basic CRUD operations, object-oriented programming, and file-based data persistence using Java Serialization.
 
-## 🚀 Features
+---
 
-- ✅ Add, view, update, and delete student records
-- 🔍 Search students by roll number or name
-- 🎓 Filter students by course
-- 📊 Sort students by marks or name
-- 💾 Data persistence using Java Serialization (`students.ser`)
-- 📁 Export data to CSV format
-- 🔐 Simple login authentication (`admin` / `pass123`)
-- 💻 Console-based interface, beginner-friendly
+## ✅ Features
+
+- Add, view, update, and delete tasks
+- Persistent data storage using file serialization
+- Menu-driven console interface
+- Pure Java, no external frameworks
+
+---
 
 ## 🛠 Technologies Used
 
-- Java (JDK 8+)
-- Object Serialization for file handling
-- Console-based UI
-- CSV export using FileWriter/PrintWriter
+- Java 17+
+- Object-Oriented Programming
+- File I/O
+- Java Serialization
 
-## 📁 Project Structure
+---
 
+## 🚀 How to Run
+
+1️⃣ **Clone this repository:**
+
+```bash
+git clone https://github.com/your-username/task-manager-java.git
